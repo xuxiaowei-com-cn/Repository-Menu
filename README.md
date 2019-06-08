@@ -101,7 +101,8 @@
 <details>
 <summary>项目说明，请点击此处展开查看</summary>
 
-
+1. 根据[小程序直传实践](https://help.aliyun.com/document_detail/92883.html)((更新时间：2019-04-26 16:37:01)
+       中的[使用 Web 端直传实践方案 Demo 进行上传测试](https://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/internal/oss/0.0.4/assets/sample/oss-h5-upload-js-direct.zip)(更新时间：2019-04-26 16:37:01)进行修正（主要将原JS修改为微信小程序语法）
 </details>
 
 ## 阿里云项目
