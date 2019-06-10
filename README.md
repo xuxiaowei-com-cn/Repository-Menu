@@ -105,6 +105,15 @@
        中的[使用 Web 端直传实践方案 Demo 进行上传测试](https://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/internal/oss/0.0.4/assets/sample/oss-h5-upload-js-direct.zip)(更新时间：2019-04-26 16:37:01)进行修正（主要将原JS修改为微信小程序语法）
 </details>
 
+#### [微信小程序RSA非对称性加密](https://github.com/XXWXHK/WeChat-MiniProgram-RSA)
+
+<details>
+<summary>项目说明，请点击此处展开查看</summary>
+
+1. 根据[jsencrypt](https://github.com/travist/jsencrypt)进行了语法修改，符合微信小程序使用
+1. 集成 [weapp-cookie](https://github.com/charleslo1/weapp-cookie)，一行代码为你的小程序实现 Cookie 机制
+</details>
+
 ## 阿里云项目
 
 #### [阿里云OSS微信小程序Web直传](https://github.com/XXWXHK/aliyun-OSS-WeChat-MiniProgram)
